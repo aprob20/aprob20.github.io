@@ -8,7 +8,7 @@ body{
     background-color: gray;
 }
 h5{
-    color:pink;
+    color:lightskyblue;
     font-size: 18;
 }
 
@@ -20,4 +20,12 @@ hr{
     color:blue;
     height:10px;
     width: 50%;
+}
+
+#test1{
+    position: absolute; top: 100px; left: 400px;
+    background-color: palegreen
+    padding:50px;
+    border-style:groove;
+    border-color: blue; 
 }
