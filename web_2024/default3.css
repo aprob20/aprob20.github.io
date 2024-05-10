@@ -1,0 +1,35 @@
+body{
+    background-color:lightcyan;
+}
+
+#test1{
+    position: absolute; top: 10px; left: 550px
+}
+
+#test2{
+    position: absolute; top: 80px; left: 10px;
+}
+
+#test3{
+    position: absolute; top: 700px; left: 500px;
+}
+
+#test4{
+    position: absolute; top: 700px; left: 600px;
+}
+
+#test5{
+    position: absolute; top: 700px; left: 700px;
+}
+
+#test6{
+    position: absolute; top: 700px; left: 800px;
+}
+
+#test7{
+    position: absolute; top: 700px; left: 900px;
+}
+
+#test8{
+    position: absolute; top: 100px; left: 1000px;
+}
